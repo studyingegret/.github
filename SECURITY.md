@@ -5,7 +5,7 @@ This security policy applies to all my repositories.
 
 If you find a [security vulnerability](https://www.cve.org/ResourcesSupport/Glossary#glossaryVulnerability), **do not send it in a GitHub Issue, Pull Request or Discussions**. Instead, use one of the following methods you trust to *privately* send a vulnerability report:
 
-- The "Report a vulnerability" button at "h<span></span>ttps://github.com/studyingegret/[project name]/security"
+- The "Report a vulnerability" button at "h<span></span>ttps://github.com/studyingegret/[project name]/security" or "h<span></span>ttps://github.com/studyingegret/[project name]/security/advisories"
 - My email a3times7@outlook.com
 
 If possible, encrypt your vulnerability report and its attachments with my [public key](https://github.com/studyingegret/.github/blob/main/studyingegret_public_key.asc) (fingerprint: `616B 6582 EBBD 9033 1485 8A74 ABD2 0217 5534 598E`). This requires software like GnuPG (and basic knowledge of public key encryption to feel safe about it).
