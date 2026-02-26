@@ -12,7 +12,7 @@ If possible, encrypt your vulnerability report and its attachments with my [publ
 
 Your report should include:
 - *Environments you have verified the vulnerability in:* Windows 7/Linux/macOS/...; Python version; C compiler version; Which version(s) of the project (specific to a range of commmit hash if possible); ...
-- *A proof-of-concept:* instructions/minimal code that can exploit the vulnerability (screen recordings and screenshots will be helpful)
+- *A proof-of-concept:* Minimal instructions/code that exploits the vulnerability (screen recordings and screenshots will be helpful)
 - *A CVSS vector and calculated severity*
 - *Impact:* Who is impacted; What damage can be done
 - *Current mitigations for users:* How can users using affected versions protect themselves against the vulnerability if they use the software (including if they cannot protect themselves)
@@ -24,6 +24,10 @@ Please mark AI-generated parts of the report (including text that is mostly AI-g
 
 Expect a response within 14 days. Please note that I may not have the time to fix the vulnerability (apologies!!!) but will try my best effort. If you do not recieve a response in that time, feel free to ping me in the repo via an issue. **Do not disclose any details about the vulnerability other than its calculated severity score**, unless I agree a fix has no hope of being released within 90 days and allow its disclosure. (If you send via email, check that the address is correct.)
 
+\* If you want the highest security, it's better not to ask any AI, except local models, to avoid AI companies using the chat history on their servers
+
+Vulnerabilities in fork repos
+-----------------------------
 If the repository you are reporting the vulnerability for is a fork, you may also want to check if the same vulnerability is present on the original (forked-from) repo, and submit a report there.
 
-\* If you want the highest security, it's better not to ask any AI, except local models, to avoid AI companies using the chat history on their servers
+I may forward the vulnerability to the original repo and await their fix if I deem myself to not have the required knowledge.
