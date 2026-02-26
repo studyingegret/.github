@@ -10,6 +10,8 @@ If you find a [security vulnerability](https://www.cve.org/ResourcesSupport/Glos
 
 If possible, encrypt your vulnerability report and its attachments with my [public key](https://github.com/studyingegret/.github/blob/main/studyingegret_public_key.asc) (fingerprint: `616B 6582 EBBD 9033 1485 8A74 ABD2 0217 5534 598E`). This requires software like GnuPG (and basic knowledge of public key encryption to feel safe about it). Alternative store for the public key: [pastebin](https://pastebin.com/m6HzQmPa)
 
+If you wish to recieve encrypted messages from me, send me your public key and fingerprint. I can use OpenPGP and S/MIME. (Please remember the fingerprint; I see this being neglected quite a lot)
+
 Your report should include:
 - *Environments you have verified the vulnerability in:* Windows 7/Linux/macOS/...; Python version; C compiler version; Which version(s) of the project (specific to a range of commmit hash if possible); ...
 - *A proof-of-concept:* Minimal instructions/code that exploits the vulnerability (screen recordings and screenshots will be helpful)
