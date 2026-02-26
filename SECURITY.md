@@ -11,12 +11,12 @@ If you find a [security vulnerability](https://www.cve.org/ResourcesSupport/Glos
 If possible, encrypt your vulnerability report and its attachments with my [public key](https://github.com/studyingegret/.github/blob/main/studyingegret_public_key.asc) (fingerprint: `616B 6582 EBBD 9033 1485 8A74 ABD2 0217 5534 598E`). This requires software like GnuPG (and basic knowledge of public key encryption to feel safe about it). Alternative store for the public key: [pastebin](https://pastebin.com/m6HzQmPa)
 
 Your report should include:
-- Environments you have verified the vulnerability in: Windows 7/Linux/macOS/...; Python version; C compiler version; Which version(s) of the project (specific to a range of commmit hash if possible); ...
-- A proof-of-concept: instructions/minimal code that can exploit the vulnerability (screen recordings and screenshots will be helpful)
-- A CVSS vector and calculated severity
-- Impact: Who is impacted; What damage can be done
-- Current mitigations for users: How can users using affected versions protect themselves against the vulnerability if they use the software (including if they cannot protect themselves)
-- Recommended fixes (if possible): How you suggest to fix the vulnerability
+- *Environments you have verified the vulnerability in:* Windows 7/Linux/macOS/...; Python version; C compiler version; Which version(s) of the project (specific to a range of commmit hash if possible); ...
+- *A proof-of-concept:* instructions/minimal code that can exploit the vulnerability (screen recordings and screenshots will be helpful)
+- *A CVSS vector and calculated severity*
+- *Impact:* Who is impacted; What damage can be done
+- *Current mitigations for users:* How can users using affected versions protect themselves against the vulnerability if they use the software (including if they cannot protect themselves)
+- *Recommended fixes (if possible):* How you suggest to fix the vulnerability
 
 A report not containing all of the above *can* be sent but may be less efficient and require replying to my further questions.
 
