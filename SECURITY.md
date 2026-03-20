@@ -8,6 +8,8 @@ If you find a [security vulnerability](https://www.cve.org/ResourcesSupport/Glos
 - The "Report a vulnerability" button at "h<span></span>ttps://github.com/studyingegret/[project name]/security" or "h<span></span>ttps://github.com/studyingegret/[project name]/security/advisories"
 - My email a3times7@outlook.com
 
+  > **Note:** My email account is blocked for unknown reasons and may take me waiting for an unknown period of time to unblock.
+
 If possible, encrypt your vulnerability report and its attachments with my [public key](https://github.com/studyingegret/.github/blob/main/studyingegret_public_key.asc) (fingerprint: `616B 6582 EBBD 9033 1485 8A74 ABD2 0217 5534 598E`). This requires software like GnuPG (and basic knowledge of public key encryption to feel safe about it). Alternative store for the public key: [pastebin](https://pastebin.com/m6HzQmPa)
 
 If you wish to recieve encrypted messages from me, send me your public key and fingerprint. I can use OpenPGP and S/MIME. (Please remember the fingerprint; I see this being neglected quite a lot)
