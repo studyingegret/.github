@@ -1,14 +1,16 @@
 Security policy
 ===============
 
+<!-- <span></span> is used to prevent autolinks. They render to empty (nothing). -->
+
 This security policy applies to all my repositories.
 
 If you find a [security vulnerability](https://www.cve.org/ResourcesSupport/Glossary#glossaryVulnerability), **do not send it in a GitHub Issue, Pull Request or Discussions**. Instead, use one of the following methods you trust to *privately* send a vulnerability report:
 
 - The "Report a vulnerability" button at "h<span></span>ttps://github.com/studyingegret/[project name]/security" or "h<span></span>ttps://github.com/studyingegret/[project name]/security/advisories"
-- My email a3times7@outlook.com
+- Email drizzly-gravel-gap@duck.com
 
-  > **Note:** My email account is blocked for unknown reasons and may take me waiting for an unknown period of time to unblock.
+  > **Note:** I distrust my previous email account a3times7<span></span>@outlook.com so please don't send a vulnerability report there. I will really turn down reports sent there unless encrypted.
 
 If possible, encrypt your vulnerability report and its attachments with my [public key](https://github.com/studyingegret/.github/blob/main/studyingegret_public_key.asc) (fingerprint: `616B 6582 EBBD 9033 1485 8A74 ABD2 0217 5534 598E`). This requires software like GnuPG (and basic knowledge of public key encryption to feel safe about it). Alternative store for the public key: [pastebin](https://pastebin.com/m6HzQmPa)
 
